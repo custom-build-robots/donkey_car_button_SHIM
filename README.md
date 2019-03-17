@@ -10,3 +10,7 @@ My Donkey Car with the mounted button SHIM from PIMORONI.
 
 ## Function overview buttons
 ![Donkey Car button SHIM function overview](https://custom-build-robots.com/wp-content/uploads/2019/03/Donkey_Car_function_overview-1.jpg)
+
+## Autostart
+To autostart the button.py program add the following line into your crontab. This will start the control.sh script every time the Raspberry Pi is rebooted.
+@reboot pi /home/pi/control.sh >> /home/pi/control.log 2>&1 &
