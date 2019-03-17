@@ -3,7 +3,7 @@ I developed this idea during meetups and presentation when I had problems to con
 
 At the end I implemented the PIMORONI button SHIM to start the Donkey Car training mode or self-driving mode... or just to shutdown the Conkey Car at the end of a presentation or run. 
 
-Da detailed description is available on my blog: https://custom-build-robots.com/raspberry-pi-roboter/autonom-fahrendes-raspberry-pi-ki-roboter-auto-short-keys/10922
+Da detailed description is available on my blog: https://custom-build-robots.com/raspberry-pi-roboter/autonom-fahrendes-raspberry-pi-ki-roboter-auto-manuelle-short-keys/10922
 
 My Donkey Car with the mounted button SHIM from PIMORONI.
 
