@@ -19,4 +19,4 @@ This will start the control.sh script every time the Raspberry Pi is rebooted. F
 
 To autostart the button.py program add the following line into your crontab. 
 
-@reboot pi /home/pi/control.sh >> /home/pi/control.log 2>&1 &
+@reboot pi /home/pi/donkey_car_button_SHIM/control.sh >> /home/pi/control.log 2>&1 &
